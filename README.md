@@ -56,8 +56,8 @@ joblib>=1.0.0
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/heart-disease-prediction.git
-cd heart-disease-prediction
+git clone https://github.com/war-riz/heart-disease-project.git
+cd heart-disease-project
 
 # Install dependencies
 pip install -r requirements.txt
@@ -163,18 +163,10 @@ predictions, probabilities, risk_levels = predict_heart_disease(user_data)
 ## Repository Structure
 
 ```
-heart-disease-prediction/
+heart-disease-project/
 │
 ├── Heart_Disease_Prediction.ipynb    # Main analysis notebook
-├── heart_rf_model.pkl               # Trained Random Forest model
-├── heart_scaler.pkl                 # Data preprocessing scaler
-├── heart_feature_columns.pkl        # Feature column names
-├── heart_user_template.csv          # Patient data template
-├── README.md                        # Project documentation
-├── requirements.txt                 # Python dependencies
-├── visualizations/                  # Generated plots and charts
-├── results/                         # Model evaluation results
-└── demo_video.mp4                   # 30-second demonstration
+└── README.md                        # Project documentation
 ```
 
 ---
