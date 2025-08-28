@@ -288,7 +288,7 @@ This project is licensed under the MIT License
 
 <div align="center">
 
-** Star this repository if you found it helpful! **
+**Star this repository if you found it helpful!**
 
 *Making healthcare smarter with AI, one prediction at a time.*
 
