@@ -251,7 +251,7 @@ We welcome contributions to improve the Heart Disease Prediction Toolkit!
 
 **Developer**: [Kehinde Waris]
 - **Email**: kehindewaris54@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/kehinde-waris-220426283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**: [war-riz](https://www.linkedin.com/in/kehinde-waris-220426283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub**: [@war-riz](https://github.com/war-riz)
 
 **Project Links**:
