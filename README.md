@@ -117,9 +117,12 @@ Comprehensive evaluation using:
 | Decision Tree | 79.9% | 81.0% | 83.3% | 82.1% | 79.5% |
 
 ![Confusion Matrix](images/confusion.png)
+
 *Confusion matrix for Random Forest model showing classification breakdown*
 
+
 ![ROC Curve Analysis](images/ROC.png)
+
 *ROC curves showing model performance comparison with Random Forest achieving 91.6% AUC*
 
 ### Key Insights
@@ -132,6 +135,7 @@ Comprehensive evaluation using:
 5. **Exercise-Induced Angina** (9.1%) - Symptom indicator
 
 ![Feature Importance Analysis](images/feature_importance.png)
+
 *Feature importance ranking showing cholesterol and age as primary predictors*
 
 #### Medical Interpretations:
