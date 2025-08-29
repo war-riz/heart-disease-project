@@ -116,6 +116,12 @@ Comprehensive evaluation using:
 | Logistic Regression | 84.2% | 84.1% | 88.2% | 86.1% | 90.3% |
 | Decision Tree | 79.9% | 81.0% | 83.3% | 82.1% | 79.5% |
 
+![Confusion Matrix](confusion_matrix.png)
+*Confusion matrix for Random Forest model showing classification breakdown*
+
+![ROC Curve Analysis](images/ROC.png)
+*ROC curves showing model performance comparison with Random Forest achieving 91.6% AUC*
+
 ### Key Insights
 
 #### Top 5 Most Important Features:
@@ -124,6 +130,9 @@ Comprehensive evaluation using:
 3. **Maximum Heart Rate** (12.7%) - Cardiac fitness indicator
 4. **ST Depression** (11.0%) - ECG abnormality marker
 5. **Exercise-Induced Angina** (9.1%) - Symptom indicator
+
+![Feature Importance Analysis](images/feature_importance.png)
+*Feature importance ranking showing cholesterol and age as primary predictors*
 
 #### Medical Interpretations:
 - **High cholesterol** is the strongest predictor of heart disease
