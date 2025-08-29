@@ -116,7 +116,7 @@ Comprehensive evaluation using:
 | Logistic Regression | 84.2% | 84.1% | 88.2% | 86.1% | 90.3% |
 | Decision Tree | 79.9% | 81.0% | 83.3% | 82.1% | 79.5% |
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](images/confusion.png)
 *Confusion matrix for Random Forest model showing classification breakdown*
 
 ![ROC Curve Analysis](images/ROC.png)
